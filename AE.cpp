@@ -10,7 +10,7 @@ int main()
     cout << "Podaj liczbe: ";
     cin >> n;
     cout << "Podaj liczbe: ";
-	cin >>m;
+	cin >> m;   
     
   int l;
 
